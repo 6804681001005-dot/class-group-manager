@@ -1,0 +1,13 @@
+
+# Secret configuration
+/config/database.php
+.env
+.env.*
+
+# Temporary files and logs
+*.log
+*.tmp
+
+# Local backups
+*.bak
+*.old
